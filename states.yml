@@ -1,0 +1,29 @@
+---
+- name: San Jose
+    country_id: "506"
+      id: "1"
+        abbr: sjo
+- name: Alajuela
+    country_id: "506"
+      id: "2"
+        abbr: ala
+- name: Cartago
+    country_id: "506"
+      id: "3"
+        abbr: car
+- name: Heredia
+    country_id: "506"
+      id: "4"
+        abbr: her
+- name: Guanacaste
+    country_id: "506"
+      id: "5"
+        abbr: gua
+- name: Puntarenas
+    country_id: "506"
+      id: "6"
+        abbr: pun
+- name: Limon
+    country_id: "506"
+      id: "7"
+        abbr: lim

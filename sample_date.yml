@@ -1,0 +1,28 @@
+---
+addresses:
+        - address1: 25 Myrtle Street
+          zipcode: '3153'
+          city: Bayswater
+        - address1: 6 Rollings Road
+          zipcode: '3156'
+          city: Upper Ferntree Gully
+
+enterprises:
+        - name: Green Grass
+          address: '3153'
+        - name: AusFarmers United
+          address: '3156'
+
+users:
+        - name: Bob
+          email: supplier@example.com
+        - name: Jane
+          email: distributor@example.com
+
+products:
+        - name: Garlic
+          supplier:
+                  category: Vegetables
+        - name: Fuji Apple
+          supplier:
+                  category: Fruit
